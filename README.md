@@ -3,7 +3,7 @@ Hello All!
 My Name is **Jolie Felicia**, you can call me **Jolie**.
 I am undergraduate student in Tarumanagara University major in Information System.
 I have interest about information technology.
-If you want know about me, you can klik this link [glints](https://glints.com/id/profile/public/0e0d28eb-c89e-4d78-87eb-0fe72b8113df).
+If you want know about me, you can klik this link [glints](https://glints.com/id/profile/public/0e0d28eb-c89e-4d78-87eb-0fe72b8113df) and [LinkedIn](https://www.linkedin.com/in/jfelicia3210/).
 
 <p align="left">
 <a href="https://github.com/joliefelicia">
